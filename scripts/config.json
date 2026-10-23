@@ -1,0 +1,514 @@
+[
+ {
+  "name": "USER AGENTS",
+  "version": "1.0.0",
+  "file": "USER_AGENTS",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "jdCookie",
+  "version": "1.0.0",
+  "file": "jdCookie",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "AutoEval",
+  "version": "1.0.0",
+  "file": "jd_AutoEval",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "CheckCK",
+  "version": "1.0.0",
+  "file": "jd_CheckCK",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "OnceApply",
+  "version": "1.0.0",
+  "file": "jd_OnceApply",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "XinFarm draw",
+  "version": "1.0.0",
+  "file": "jd_XinFarm_draw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "XinFarm water",
+  "version": "1.0.0",
+  "file": "jd_XinFarm_water",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "autock",
+  "version": "1.0.0",
+  "file": "jd_autock",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "bean change",
+  "version": "1.0.0",
+  "file": "jd_bean_change",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "bean home",
+  "version": "1.0.0",
+  "file": "jd_bean_home",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "clean coupon",
+  "version": "1.0.0",
+  "file": "jd_clean_coupon",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "daka bean",
+  "version": "1.0.0",
+  "file": "jd_daka_bean",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "deliverySign sign",
+  "version": "1.0.0",
+  "file": "jd_deliverySign_sign",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dplh0408",
+  "version": "1.0.0",
+  "file": "jd_dplh0408",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dplh0420",
+  "version": "1.0.0",
+  "file": "jd_dplh0420",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dplh0509",
+  "version": "1.0.0",
+  "file": "jd_dplh0509",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dplh0523",
+  "version": "1.0.0",
+  "file": "jd_dplh0523",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dplh0609",
+  "version": "1.0.0",
+  "file": "jd_dplh0609",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dplhbshop",
+  "version": "1.0.0",
+  "file": "jd_dplhbshop",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dpqd sign",
+  "version": "1.0.0",
+  "file": "jd_dpqd_sign",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "dwapp",
+  "version": "1.0.0",
+  "file": "jd_dwapp",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "farmnew ck help",
+  "version": "1.0.0",
+  "file": "jd_farmnew_ck_help",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "farmnew code help",
+  "version": "1.0.0",
+  "file": "jd_farmnew_code_help",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "fish help",
+  "version": "1.0.0",
+  "file": "jd_fish_help",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "fruit new",
+  "version": "1.0.0",
+  "file": "jd_fruit_new",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "hdyxzd",
+  "version": "1.0.0",
+  "file": "jd_hdyxzd",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "hssign",
+  "version": "1.0.0",
+  "file": "jd_hssign",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "ifdraw",
+  "version": "1.0.0",
+  "file": "jd_ifdraw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "indeps",
+  "version": "1.0.0",
+  "file": "jd_indeps",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "jingpai",
+  "version": "1.0.0",
+  "file": "jd_jingpai",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "joypark leave",
+  "version": "1.0.0",
+  "file": "jd_joypark_leave",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "jrddzjd",
+  "version": "1.0.0",
+  "file": "jd_jrddzjd",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "jrttlqy",
+  "version": "1.0.0",
+  "file": "jd_jrttlqy",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "jxfl",
+  "version": "1.0.0",
+  "file": "jd_jxfl",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "ksjsb",
+  "version": "1.0.0",
+  "file": "jd_ksjsb",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "lhgz0408",
+  "version": "1.0.0",
+  "file": "jd_lhgz0408",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "lmdraw",
+  "version": "1.0.0",
+  "file": "jd_lmdraw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "luckyDraw",
+  "version": "1.0.0",
+  "file": "jd_luckyDraw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "mall",
+  "version": "1.0.0",
+  "file": "jd_mall",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "newfarmlottery",
+  "version": "1.0.0",
+  "file": "jd_newfarmlottery",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "pkabeans",
+  "version": "1.0.0",
+  "file": "jd_pkabeans",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "plantBean",
+  "version": "1.0.0",
+  "file": "jd_plantBean",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "plantBean friend",
+  "version": "1.0.0",
+  "file": "jd_plantBean_friend",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "plantBean help",
+  "version": "1.0.0",
+  "file": "jd_plantBean_help",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "proxy check",
+  "version": "1.0.0",
+  "file": "jd_proxy_check",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "qy sign",
+  "version": "1.0.0",
+  "file": "jd_qy_sign",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "rankVote",
+  "version": "1.0.0",
+  "file": "jd_rankVote",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "signbeanact ",
+  "version": "1.0.0",
+  "file": "jd_signbeanact_",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "sldraw",
+  "version": "1.0.0",
+  "file": "jd_sldraw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "superRedBagDraw",
+  "version": "1.0.0",
+  "file": "jd_superRedBagDraw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "sx draw",
+  "version": "1.0.0",
+  "file": "jd_sx_draw",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "sx help",
+  "version": "1.0.0",
+  "file": "jd_sx_help",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "try",
+  "version": "1.0.0",
+  "file": "jd_try",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "ttgd",
+  "version": "1.0.0",
+  "file": "jd_ttgd",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "vu50",
+  "version": "1.0.0",
+  "file": "jd_vu50",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "water new",
+  "version": "1.0.0",
+  "file": "jd_water_new",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "wduoyu",
+  "version": "1.0.0",
+  "file": "jd_wduoyu",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "weGameLottery",
+  "version": "1.0.0",
+  "file": "jd_weGameLottery",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "xqmh",
+  "version": "1.0.0",
+  "file": "jd_xqmh",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "xsjx",
+  "version": "1.0.0",
+  "file": "jd_xsjx",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "yssign",
+  "version": "1.0.0",
+  "file": "jd_yssign",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "zjindan",
+  "version": "1.0.0",
+  "file": "jd_zjindan",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "ql",
+  "version": "1.0.0",
+  "file": "ql",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ },
+ {
+  "name": "sendNotify",
+  "version": "1.0.0",
+  "file": "sendNotify",
+  "envName": "JD_COOKIE",
+  "envHint": "",
+  "_taskCron": ""
+ }
+]
